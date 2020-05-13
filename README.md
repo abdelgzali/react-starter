@@ -1,4 +1,4 @@
-## React Starter
+## Simple react.js boilerplate
 
 ### `npm start`
 
